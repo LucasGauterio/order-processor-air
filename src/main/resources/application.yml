@@ -1,0 +1,6 @@
+micronaut:
+  application:
+    name: order-processor-air
+  server:
+    port: 8081
+kafka.bootstrap.servers: localhost:9092

@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: order.processor.air
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, docker, http-client, java, java-application, junit, kafka, logback, maven, netty-server, readme, shade, yaml]
